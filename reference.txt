@@ -1,0 +1,3 @@
+$ git remote add origin remote repository URL
+git pull
+git push
